@@ -1,5 +1,6 @@
 alter session set current_schema=DB1;
 
+
 --------------------------------------------------------
 --  DDL for Procedure MIGRATION_STRUCTURE
 --------------------------------------------------------
