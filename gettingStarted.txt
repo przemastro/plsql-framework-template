@@ -1,0 +1,21 @@
+Few steps need to be performed in order to use start using anonymous block and migration procedures:
+
+ 1. Create new tablespace and schema/users DB1 and DB2 - I mean just run 'tablespace' query in 'sql developer'
+    new DB connection. In this example I configured connection as 'admin' with login:'sys' and password:'admin'.
+ 2. Create structure of schema DB1. Run in new query window 'DB1' query. Entire structure will be created including
+    test data insert.
+ 3. And finally in DB2 schema run two queries: migration_structure_proc.sql and migration_data_proc.sql. This will add
+    two procedures to DB2 schema. 
+
+Below is an example how to migrate data and run anonymous block
+
+   1. In DB2/Procedures run respectively: 'MIGRATION_STRUCTURE' and 'MIGRATION_DATA'.
+
+   2. Open SqlPlus console and connect to your DB: 
+      a) connect as sysdba
+   3. Run query: @"path to the file"\report.sql and provide details
+      a) Enter value for result_migration_file_path: c:\"some location"\result.html
+	  b) Enter value for starName: "Denebola" - in this example
+	  c) Enter value for recordsLimit: 20 - whatever you want 
+ 
+Have a nice testing 
