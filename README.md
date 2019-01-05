@@ -1,7 +1,7 @@
 # PL/SQLFramework
 Oracle XE 11g
 
-This is a demo version of aframework I used for testing migration between oracle databases during development of an application for Roche Pharmaceuticals. In this little example I simulate migration between DB's using oracle schemas
+This is a demo version of a framework I used for testing migration between oracle databases during development of an application for Roche Pharmaceuticals. In this little example I simulate migration between DB's using oracle schemas
 
 DB consists of:
 
