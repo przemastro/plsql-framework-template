@@ -1,7 +1,7 @@
 # PL/SQL Test Framework
-[![GitHub issues](https://img.shields.io/github/issues/przemastro/java-rest-assured-framework)](https://github.com/przemastro/java-rest-assured-framework/issues)
-[![GitHub forks](https://img.shields.io/github/forks/przemastro/java-rest-assured-framework)](https://github.com/przemastro/java-rest-assured-framework/network)
-[![GitHub stars](https://img.shields.io/github/stars/przemastro/java-rest-assured-framework)](https://github.com/przemastro/java-rest-assured-framework/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/przemastro/plsql-framework)](https://github.com/przemastro/plsql-framework/issues)
+[![GitHub forks](https://img.shields.io/github/forks/przemastro/plsql-framework)](https://github.com/przemastro/plsql-framework/network)
+[![GitHub stars](https://img.shields.io/github/stars/przemastro/plsql-framework)](https://github.com/przemastro/plsql-framework/stargazers)
 [![PL/SQL version](https://img.shields.io/badge/PL%2FSQL-11g-%23ccc)](https://github.com/przemastro/plsql-framework)
 
 # Features
